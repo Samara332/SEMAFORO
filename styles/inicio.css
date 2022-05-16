@@ -1,0 +1,84 @@
+.texto1{
+    text-align: center;
+    color: #707070;
+    size: 18;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.texto2{
+    text-align: center;
+    color: #707070;
+    size: 21;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.texto3{
+    text-align: center;
+    color: #707070;
+    size: 15;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.texto4{
+    text-align: left;
+    color: #707070;
+    size: 21;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.centrar{
+    text-align: center;
+}
+
+
+.titulo{
+    font-size:20px ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: white;
+}
+
+.tabla_titulo{
+    background-color: #FF314D;
+    height: 33px;
+}
+
+.tabla_sensor{
+    background-color: white;
+    height: 177px;
+    border-color: #707070;
+    border-width: 1px;
+    border-style: solid;
+    justify-content: center;
+}
+
+
+
+.texto_grande{
+    font-size:20px ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: #707070;
+    
+    line-height: 0;
+}
+
+.texto_min{
+    font-size:12px ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: #707070; 
+    line-height: 0;
+}
+
+.texto_min_vacio{
+    font-size:12px ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    color: white; 
+    line-height: 0;
+}
+
+.iframe_dato{
+    border:0px solid black;
+    width:60px;
+    height:50px;
+}
